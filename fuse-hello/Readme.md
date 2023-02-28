@@ -23,7 +23,7 @@
    
 # Run instructions
    
-* **Compiling** - creating **img** of **FUSE** fs, named fuse_exe:
+* **Compiling** - creating **img** of **FUSE** fs, named **fuse_exe**:
 ```sh
 ~$ gcc -g main.c -o fuse_exe `pkg-config fuse --cflags --libs`
 ```
@@ -35,6 +35,10 @@
 ```sh
 ~$ ./fuse_exe /tmp/example
 ```
+----
+$$\textbf{Functionality tests}$$
+
+----
 * **Unmount** after work:
 ```sh
 ~$ fusermount -u /tmp/example
