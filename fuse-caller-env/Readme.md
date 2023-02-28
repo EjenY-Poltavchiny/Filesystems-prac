@@ -1,7 +1,7 @@
 # Fuse-caller-environ
 
 * The task is to implement **FUSE** filesystem to some **mount point**. The **root** of a filesystem **must contain** (folders) **environ variables** of **current process**. 
-Each **folder** named as **environ variable** of process must **contains** variable **value**. For **example**:
+Each **folder** named as **environ variable** of process must **contains** variable **value**. **Output** example:
   ```sh
   ~$ ls -lha (mount_point)
   total 4,0K
