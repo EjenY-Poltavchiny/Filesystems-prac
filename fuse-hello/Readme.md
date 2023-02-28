@@ -19,7 +19,7 @@ Hello, 3495
    
 # Files 
    
-*[solution.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-hello/solution.c) - implemetation of **solution** for task
+* [solution.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-hello/solution.c) - implemetation of **solution** for task
    
 # Run instructions
    
