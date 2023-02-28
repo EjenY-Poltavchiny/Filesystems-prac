@@ -1,5 +1,6 @@
 # Fuse-whoami
 * The **task** is to implement **FUSE** filesystem to some **mount point**. The root of a filesystem must contain the following entries (the owner UID and GID may be different) and file named **whoami** with **current process** simple **information**:
+* **Output** example:
   ```sh
   ~$ ls -la (mount_point)
   total 4
