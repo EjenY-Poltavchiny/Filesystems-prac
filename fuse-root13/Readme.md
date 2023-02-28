@@ -23,6 +23,8 @@
 
 * [main.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-root13/main.c) - task **solution**
 
+# Run instructions
+
 * **Compiling** - creating **img** of **FUSE** fs, named **fuse_exe**:
 ```sh
 ~$ sudo gcc -g main3.c -o fuse_exe `pkg-config fuse --cflags --libs`
