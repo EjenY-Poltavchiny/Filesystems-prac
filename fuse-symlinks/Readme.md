@@ -37,7 +37,7 @@
 # Run insrtuctions 
 * **Compiling** - creating **img** of **FUSE** fs, named **fuse_exe**:
 ```sh
-~$ gcc -g main.c -o fuse_exe `pkg-config fuse --cflags --libs`
+~$ gcc -g main1.c -o fuse_exe `pkg-config fuse --cflags --libs`
 ```
 * Creating **mount point** (it could be almost **any** **directory** in your **fs**):
 ```sh
