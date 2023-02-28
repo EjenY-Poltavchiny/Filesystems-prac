@@ -1,7 +1,7 @@
 # Proc_info
 
 * The **task** is to implement **solution** wich will output **eviroment**, **comand lines** and **path to exec file** for **all** system **processes**.
-* **Output** example:
+* **Output** example (for **one** process):
 ```
 pid 3416:
   exe = '/usr/bin/gedit'
