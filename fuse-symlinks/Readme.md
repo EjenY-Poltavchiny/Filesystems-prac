@@ -1,6 +1,6 @@
 # Fuse symlinks
 
-* We have folder named **srcdir** and some symlinks to **files** and to **folders** in it. **Output** example:
+* We have folder named **srcdir** and some symlinks to **files** and to **folders** in it. For **example**:
   ```sh
   ~$ ls -la ./srcdir
   total 16
@@ -11,7 +11,8 @@
   drwxrwxr-x 2 ejeny ejeny 4096 фев 20 10:49 new_dir
   lrwxrwxrwx 1 ejeny ejeny    7 фев 20 10:40 new_dir_link -> new_dir
   ```
-* Our **task** is to implement **FUSE** filesystem where all **symlinks** will be remake as **files or folders** with **content** of objects **symlink were refered** to. For our example:
+* Our **task** is to implement **FUSE** filesystem where all **symlinks** will be remake as **files or folders** with **content** of objects **symlink were refered** to. 
+* **Output** example:
   ```
   ~$ ls -la ./dstdir/
   total 24
