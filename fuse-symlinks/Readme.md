@@ -1,6 +1,6 @@
 # Fuse symlinks
 
-* We have folder named **srcdir** and some symlinks to **files** and to **folders** in it. For example:
+* We have folder named **srcdir** and some symlinks to **files** and to **folders** in it. **Output** example:
   ```sh
   ~$ ls -la ./srcdir
   total 16
