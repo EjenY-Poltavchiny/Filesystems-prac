@@ -1,2 +1,2 @@
-# Filesystems-prac
-Some tasks from MIPT filesystems course.
+# Filesystems practice
+Some tasks from **MIPT filesystems course**.
