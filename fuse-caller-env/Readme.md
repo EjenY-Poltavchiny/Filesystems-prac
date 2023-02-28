@@ -44,6 +44,28 @@ Each **folder** named as **environ variable** of process must **contains** varia
   /home/ejeny/EjenY_FS/fs_prac/fuse
   ```
   
-  # Files
+# Files
+* [main4.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-caller-env/main4.c)
   
-  * [main4.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-stack/main4.c)
+# Run instructions 
+* **Compiling** - creating **img** of **FUSE** fs, named **fuse_exe**:
+```sh
+~$ sudo gcc -g main4.c -o fuse_exe `pkg-config fuse --cflags --libs`
+```
+* Creating **mount point** (it could be almost **any** **directory** in your **fs**):
+```sh
+~$ sudo mkdir -p /tmp/example
+```
+* Run **exe** file giving as argument **path to mount point** (previous step):
+```sh
+~$ sudo ./fuse_exe /tmp/example
+```
+----
+$$\textbf{Functionality tests (all tests should be done using sudo)}$$
+
+----
+* **Unmount** after work:
+```sh
+~$ sudo fusermount -u /tmp/example
+```
+  
