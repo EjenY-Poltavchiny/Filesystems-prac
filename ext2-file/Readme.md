@@ -62,6 +62,7 @@
 * **Run** exe **file** (**a.out** by default) with **image** and **inode number** as arguments. For **exmaple**:
   ```sh
   ./a.out img 14
+  ...
   ```
 * **Unmount** after work:
   ```sh
