@@ -63,4 +63,11 @@
   ```sh
   ./a.out img 14
   ```
+  $$\textbf{Functionality tests (all tests should be done using sudo)}$$
+
+----
+* **Unmount** after work:
+```sh
+~$ sudo umount ext2_sys
+```
   
