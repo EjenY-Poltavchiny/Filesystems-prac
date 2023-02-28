@@ -15,7 +15,7 @@ pid 3416:
 * [main.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/proc_info/main.c) - main file
 * [solution.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/proc_info/solution.c) - task **solution code**
 * [solution.h](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/proc_info/solution.h) - declaration of function and task **formulating**
-* [calbacks.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/proc_info/callbacks.c) - implementation **functions** for **output**
+* [callbacks.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/proc_info/callbacks.c) - implementation **functions** for **output**
 
 ## Run instructions
 
