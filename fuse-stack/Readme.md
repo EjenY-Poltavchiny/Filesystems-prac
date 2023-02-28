@@ -35,7 +35,7 @@ Each **folder** named as **PID** of process must **contains** list of **threads*
   [<0>] entry_SYSCALL_64_after_hwframe+0x61/0xcb
   ```
 # Files
-* [main3.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blolb/main/fuse-stack/main3.c) - task **solution**
+* [main3.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-stack/main3.c) - task **solution**
 
 # Run instructions
    
