@@ -1,7 +1,8 @@
 # Fuse stack
 
 * The task is to implement **FUSE** filesystem to some **mount point**. The **root** of a filesystem **must contain** (folders) list of **porcesses** of **entire FS**. 
-Each **folder** named as **PID** of process must **contains** list of **threads** for this process. Each **thread** contains **stack** he uses. For **example**:
+Each **folder** named as **PID** of process must **contains** list of **threads** for this process. Each **thread** contains **stack** he uses. 
+* **Output** example:
   ```sh
   ~$ sudo ls -lha (mount point)
   total 4,0K
