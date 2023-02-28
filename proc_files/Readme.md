@@ -16,10 +16,10 @@ anon_inode:[eventfd]
 ```
 ## Files
 
-* [main.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/edit/main/proc_files/main.c) - main file
-* [solution.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/edit/main/proc_files/solution.c) - task **solution code**
-* [solution.h](https://github.com/EjenY-Poltavchiny/Filesystems-prac/edit/main/proc_files/solution.h) - declaration of function and task **formulating**
-* [calbacks.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/edit/main/proc_files/callbacks.c) - implementation **functions** for **output**
+* [main.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/proc_files/main.c) - main file
+* [solution.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/proc_files/solution.c) - task **solution code**
+* [solution.h](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/proc_files/solution.h) - declaration of function and task **formulating**
+* [calbacks.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/proc_files/callbacks.c) - implementation **functions** for **output**
 
 ## Run instructions
 
