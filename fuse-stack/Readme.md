@@ -28,7 +28,7 @@ Each **folder** named as **PID** of process must **contains** list of **threads*
   -r--r--r-- 1 root root 1,0K фев 28 19:04 675
   -r--r--r-- 1 root root 1,0K фев 28 19:04 687
   
-  ~/$ sudo cat (mount point)/597/597
+  ~$ sudo cat (mount point)/597/597
   [<0>] do_sys_poll+0x486/0x610
   [<0>] __x64_sys_poll+0xa9/0x140
   [<0>] do_syscall_64+0x5c/0xc0
