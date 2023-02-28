@@ -19,7 +19,7 @@
 
 # Files
 
-* [main.cpp](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/ext2-dir/main.c) - task **solution**
+* [mysol.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/ext2-dir/mysol.c) - task **solution**
 
 # Run and tests instructions
 
