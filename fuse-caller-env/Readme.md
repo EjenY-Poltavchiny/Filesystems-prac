@@ -45,7 +45,7 @@ Each **folder** named as **environ variable** of process must **contains** varia
   ```
   
 # Files
-* [main4.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-caller-env/main4.c)
+* [main4.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-caller-env/main4.c) - task **solution**
   
 # Run instructions 
 * **Compiling** - creating **img** of **FUSE** fs, named **fuse_exe**:
