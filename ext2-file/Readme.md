@@ -63,7 +63,7 @@
   ```sh
   ./a.out img 14
   ```
-  $$\textbf{Functionality tests (all tests should be done using sudo)}$$
+  $$\textbf{Functionality tests}$$
 
 ----
 * **Unmount** after work:
