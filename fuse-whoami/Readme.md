@@ -15,7 +15,7 @@
   ```
 # Files
 
-*[main2.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-whoami/main2.c) - implemetation of **solution** for task
+* [main2.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-whoami/main2.c) - task **solution**
 
 # Run instructions
    
