@@ -1,6 +1,6 @@
 # Filesystems practice
 Some tasks from **MIPT filesystems course**.
-----
+
 Each directory contains Readme with instruction and description of task
 
 ----
