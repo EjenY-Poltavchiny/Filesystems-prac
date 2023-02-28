@@ -47,7 +47,7 @@
   Writing inode tables: done                            
   Writing superblocks and filesystem accounting information: done
   ```
-  * **making** mount point and **mount** **ext2** FS to it (**fill** this folder with **files** and **folders** to test programm and **ls -li** to **take** file **inode**)
+  * **making** mount point and **mount** **ext2** FS to it (**fill** using **sudo** this folder with **files** and **folders** to test programm and **ls -li** to **take** file **inode**)
   ```sh
   ~$ mkdir -p ext2_sys
   ~$ sudo mount ./img ext2_sys
