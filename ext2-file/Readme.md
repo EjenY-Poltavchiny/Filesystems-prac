@@ -59,13 +59,10 @@
   ```sh
   ~$ gcc main.c 
   ```
-* **Run** exe **file** (**a.out** by default) with **image** and **inode number** as arguments
+* **Run** exe **file** (**a.out** by default) with **image** and **inode number** as arguments. For **exmaple**:
   ```sh
   ./a.out img 14
   ```
-  $$\textbf{Functionality tests}$$
-
-----
 * **Unmount** after work:
   ```sh
   ~$ sudo umount ext2_sys
