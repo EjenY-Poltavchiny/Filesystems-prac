@@ -1,7 +1,7 @@
 # Fuse-hello
 
 * The **task** is to implement **FUSE** filesystem to some mount point. The **root** of a filesystem must contain the following entries (the owner **UID**
-   and **GID** may be different):
+   and **GID** may be different). **Output** example:
    
 ```sh
 ~$ ls -la (mount_point)
