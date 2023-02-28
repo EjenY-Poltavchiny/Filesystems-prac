@@ -19,5 +19,28 @@
   arj grkg
 
   ```
+# Files 
+
+* [main.c](https://github.com/EjenY-Poltavchiny/Filesystems-prac/blob/main/fuse-root13/main.c) - task **solution**
+
+* **Compiling** - creating **img** of **FUSE** fs, named **fuse_exe**:
+```sh
+~$ sudo gcc -g main3.c -o fuse_exe `pkg-config fuse --cflags --libs`
+```
+* Creating **mount point**. By formuation of the task it should be folder named **./dstdir**:
+```sh
+~$ sudo mkdir -p ./dstdir
+```
+* Run **exe** file giving as argument **path to mount point** (previous step):
+```sh
+~$ sudo ./fuse_exe ./dstdir
+```
+----
+$$\textbf{Functionality tests (all tests should be done using sudo)}$$
+
+----
+* **Unmount** after work:
+```sh
+~$ sudo fusermount -u ./dstdir
+```
   
-  # Files 
