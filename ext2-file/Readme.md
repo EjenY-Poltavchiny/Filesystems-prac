@@ -67,7 +67,7 @@
 
 ----
 * **Unmount** after work:
-```sh
-~$ sudo umount ext2_sys
-```
+  ```sh
+  ~$ sudo umount ext2_sys
+  ```
   
